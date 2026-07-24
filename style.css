@@ -122,3 +122,21 @@ footer strong {
     }
 
 }
+/* Mobile Responsive */
+@media (max-width: 600px) {
+
+    .buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .buttons button {
+        flex: 1 1 40%;
+        max-width: 140px;
+        margin: 5px;
+    }
+
+}
