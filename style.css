@@ -106,3 +106,19 @@ footer {
 footer strong {
     color: #0077ff;
 }
+/* Mobile Responsive */
+@media (max-width: 600px) {
+
+    .buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .buttons button {
+        width: 130px;
+        margin: 5px;
+    }
+
+}
