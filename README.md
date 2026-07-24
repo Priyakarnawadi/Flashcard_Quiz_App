@@ -4,7 +4,7 @@ A simple interactive Flashcard Quiz App built using **HTML, CSS, and JavaScript*
 
 ## 📸 Screenshot
 
-![Flashcard Quiz App](flashcardapp.png)
+![Flashcard Quiz App](flashcard-app.png)
 
 ## ✨ Features
 
